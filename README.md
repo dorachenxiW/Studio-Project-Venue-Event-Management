@@ -52,6 +52,7 @@ The project entailed the development of a `full-stack web application` that util
 - Trying user story: manage venues for planner
 - Trying user story: manage venue event options and its charges for planner 
 (In this sprint, I encountered my first difficulties of accessing and updating data, and was stuck with these user stories for a while until another team member helped and learned how to deal with problems like this.)
+
 **Sprint 4**
 - Completed user story: manage venues for admin
 - Populated database for all the tables 
